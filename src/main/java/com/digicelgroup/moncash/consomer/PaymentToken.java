@@ -1,4 +1,4 @@
-package com.digicelgroup.moncash.consomer;
+package com.insercomhai-transfert.moncash.consomer;
 
 public class PaymentToken {
 
